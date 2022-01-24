@@ -1,0 +1,10 @@
+D:\Clone_C#\Training_05_CSharp\Buoi08\Demo\Buoi08\Demo02_Game_Caro\bin\Debug\Demo02_Game_Caro.exe.config
+D:\Clone_C#\Training_05_CSharp\Buoi08\Demo\Buoi08\Demo02_Game_Caro\bin\Debug\Demo02_Game_Caro.exe
+D:\Clone_C#\Training_05_CSharp\Buoi08\Demo\Buoi08\Demo02_Game_Caro\bin\Debug\Demo02_Game_Caro.pdb
+D:\Clone_C#\Training_05_CSharp\Buoi08\Demo\Buoi08\Demo02_Game_Caro\obj\Debug\Demo02_Game_Caro.csprojAssemblyReference.cache
+D:\Clone_C#\Training_05_CSharp\Buoi08\Demo\Buoi08\Demo02_Game_Caro\obj\Debug\Demo02_Game_Caro.frmMain.resources
+D:\Clone_C#\Training_05_CSharp\Buoi08\Demo\Buoi08\Demo02_Game_Caro\obj\Debug\Demo02_Game_Caro.Properties.Resources.resources
+D:\Clone_C#\Training_05_CSharp\Buoi08\Demo\Buoi08\Demo02_Game_Caro\obj\Debug\Demo02_Game_Caro.csproj.GenerateResource.cache
+D:\Clone_C#\Training_05_CSharp\Buoi08\Demo\Buoi08\Demo02_Game_Caro\obj\Debug\Demo02_Game_Caro.csproj.CoreCompileInputs.cache
+D:\Clone_C#\Training_05_CSharp\Buoi08\Demo\Buoi08\Demo02_Game_Caro\obj\Debug\Demo02_Game_Caro.exe
+D:\Clone_C#\Training_05_CSharp\Buoi08\Demo\Buoi08\Demo02_Game_Caro\obj\Debug\Demo02_Game_Caro.pdb
